@@ -1,5 +1,5 @@
 {
-      "name": "Layla Robot",
+      "name": "Akeno Himejima",
       "description": "Telegram group management bot.",
       "logo": "https://telegra.ph/file/8f6b24120aab8490dca45.jpg",
       "keywords": [
@@ -7,7 +7,7 @@
          "anime",
          "group",
          "manager",
-         "Layla"
+         "Akeno"
       ],   
    "repository": "https://github.com/QueenArzoo/LaylaRobot.git",
    "addons": [
